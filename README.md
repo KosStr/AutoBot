@@ -13,20 +13,21 @@ In the installer:
 Check the box: "Add python.exe to PATH" (important for command-line access).
 
 Step 2:
+
 Open Command Prompt.
-cd C:\Users\User\LionMotorsBot
-python -m venv venv
+run: cd C:\Users\User\LionMotorsBot
+run: python -m venv venv
 The venv folder should appear in the directory
-textvenv\Scripts\activate
+run: textvenv\Scripts\activate
 
 Step 3: 
 
 Your prompt should change to (venv) C:\Users\User\LionMotorsBot> indicating it's active.
 If you get an error (e.g., execution policy issue), run PowerShell as Administrator and execute:
 With the venv active, install required libraries:
-textpip install python-telegram-bot python-dotenv
+run: textpip install python-telegram-bot python-dotenv
 set up the .env File: BOT_TOKEN=your_bot_token_here
-python bot.py
+run: python bot.py
 
 Test the bot: Open Telegram, search for your bot, and send /start to verify it responds.
 
