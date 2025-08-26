@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "make": "TESLA",
+        "model": "MODEL X",
+        "year": 2022,
+        "price": 10000,
+        "vin": "1N4AZ0CP6KC301234",
+        "condition": "Run and Drive",
+        "mileage": 50000,
+        "fuel_type": "electric",
+        "image_paths": [
+            "auction_cars/car_photos/teslax_img1.jpg",
+            "auction_cars/car_photos/teslax_img2.jpg",
+            "auction_cars/car_photos/teslax_img3.jpg",
+            "auction_cars/car_photos/teslax_img4.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "make": "TESLA",
+        "model": "MODEL Y",
+        "year": 2022,
+        "price": 12000,
+        "vin": "WBY1Z8C56HV890123",
+        "condition": "Run and Drive",
+        "mileage": 38000,
+        "fuel_type": "electric",
+        "image_paths": [
+            "auction_cars/car_photos/teslay_img1.jpg",
+            "auction_cars/car_photos/teslay_img2.jpg",
+            "auction_cars/car_photos/teslay_img3.jpg",
+            "auction_cars/car_photos/teslay_img4.jpg"
+        ]
+    }
+]

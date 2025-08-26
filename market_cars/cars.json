@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "make": "Nissan",
+        "model": "Leaf",
+        "year": 2019,
+        "price": 9000,
+        "vin": "1N4AZ0CP6KC301234",
+        "condition": "Run and Drive",
+        "mileage": 42316,
+        "fuel_type": "electric",
+        "image_paths": [
+            "market_cars/car_photos/leaf_img1.jpg",
+            "market_cars/car_photos/leaf_img2.jpg",
+            "market_cars/car_photos/leaf_img3.jpg",
+            "market_cars/car_photos/leaf_img4.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "make": "BMW",
+        "model": "X5",
+        "year": 2022,
+        "price": 12000,
+        "vin": "WBY1Z8C56HV890123",
+        "condition": "Run and Drive",
+        "mileage": 66000,
+        "fuel_type": "hybrid",
+        "image_paths": [
+            "market_cars/car_photos/x5_img1.jpg",
+            "market_cars/car_photos/x5_img2.jpg",
+            "market_cars/car_photos/x5_img3.jpg",
+            "market_cars/car_photos/x5_img4.jpg"
+        ]
+    }
+]
